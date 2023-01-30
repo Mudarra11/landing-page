@@ -1,0 +1,78 @@
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.top {
+    color: white;
+}
+
+.bottom {
+    color: white;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.links {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.first-button {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.the-quote {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quotee {
+    font-weight: bold;
+}
+
+.sign-up {
+    color: white;
+    background-color: #3882F6;
+}
+
+.sign-up-header {
+    font-weight: bold;
+}
+
+.second-button {
+    background-color: #3882F6;
+}
+
+    
