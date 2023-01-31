@@ -1,3 +1,6 @@
 # landing-page
 this is a project from the odin project to learn web development.
-Picture form Golden Jojo, pexels.com
+
+Pictures form:
+- Andreas- from pexels.com
+- Golden Jojo, pexels.com
